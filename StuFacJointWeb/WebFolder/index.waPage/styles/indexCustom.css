@@ -1,0 +1,7 @@
+﻿body {
+	overflow-y: hidden;
+	min-height: 920px;
+}
+#cmpSadrzaj{
+	min-height: 800px;
+}

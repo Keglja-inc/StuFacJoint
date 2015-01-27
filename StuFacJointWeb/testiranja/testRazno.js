@@ -1,0 +1,1 @@
+﻿directory.computeHA1("obradiFakseve", "air")

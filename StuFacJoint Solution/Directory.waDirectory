@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><directory>
+	<group ID="01000000000000000000000000000000" name="Admin">
+		<include user="admin" ID="AA3F433E8A8CFD48B5FAE0156EFB0F9E"/>
+		<include user="davorin" ID="E734903CDAFED444A9BAD2BA2D13FA73"/>
+	</group>
+	<group ID="7612CD0B7FBED546ACA3CCBA42AF06E5" name="Fakultet"/>
+	<group ID="6328622C7AD7F645A7542F175B1C0941" name="Ucenik"/>
+	<group ID="69D4EE50ED8BE2459369654F2DC1578E" name="Moderator"/>
+	<user ID="AA3F433E8A8CFD48B5FAE0156EFB0F9E" name="admin" fullName="Administrator" password="003b744708c16733d1eb3371bec208fd"/>
+	<user ID="E734903CDAFED444A9BAD2BA2D13FA73" name="davorin" fullName="Davorin" password="8b1f15b4cdfcd22b4ecdac80f684e56c"/>
+</directory>
